@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoubleList</string>
+    <string name="text_show_num_comment">查看%1$s条回复</string>
+</resources>
